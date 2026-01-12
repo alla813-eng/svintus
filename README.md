@@ -6,3 +6,8 @@
 -коммиты
 -issues
 -pull request
+
+Задачи проекта 
+
+-Изучение GitHub
+-работа с ветками и pull request
